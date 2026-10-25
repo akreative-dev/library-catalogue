@@ -1,0 +1,23 @@
+# Original coursework files — keep private
+/Library.py
+/Library_original_backup.py
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# Local secrets and environment configuration
+.env
+.env.*
+
+# Generated archives and recordings
+*.zip
+*.mov
+*.mp4
